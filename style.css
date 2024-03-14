@@ -10,7 +10,7 @@ body{
 .titulo{
     text-align: center;
     
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 .subtitulo{
@@ -51,6 +51,8 @@ img:hover{
 .principal2{
 text-align: center;
 background-color: rgb(133, 124, 124);
+margin: 60px;
+font-size: 30px;
 
 
 }
@@ -58,8 +60,18 @@ background-color: rgb(133, 124, 124);
 .historia{
     text-align: center;
     background-color: rgb(100, 94, 94);
+    font-size: 30px;
+    margin: 60px;
 }
 
 .tituloweb{
     font-size: 35px;
+}
+
+
+.funcionamento{
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(59, 55, 55);
+
 }
