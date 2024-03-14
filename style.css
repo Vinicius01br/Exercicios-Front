@@ -1,0 +1,65 @@
+body{
+    background-color: aqua;
+
+}
+
+.principal{
+    text-align: center;
+    text-decoration: underline;
+}
+.titulo{
+    text-align: center;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subtitulo{
+text-decoration: underline;
+}
+
+.editores{
+    text-align: center;
+
+}
+
+ul li{
+    list-style: none;
+    text-align: center;
+    
+}
+
+.lista{
+    text-align: center;
+}
+
+.sites{
+    text-align: center;
+}
+
+/* PAGINA HTML*/
+.titulohtml{
+    text-align: center;
+    font-size: 50px;
+    border-style: solid;
+    box-shadow: 10px 5px 5px red;
+}
+
+img:hover{
+    transform: scale(1.5);
+    transition: 1s;
+}
+.principal2{
+text-align: center;
+background-color: rgb(133, 124, 124);
+
+
+}
+
+.historia{
+    text-align: center;
+    background-color: rgb(100, 94, 94);
+}
+
+.tituloweb{
+    font-size: 35px;
+}
