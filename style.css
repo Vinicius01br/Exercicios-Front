@@ -1,77 +1,105 @@
-body{
-    background-color: aqua;
+body {
+    background-color: rgb(136, 163, 163);
 
 }
 
-.principal{
+.principal {
     text-align: center;
     text-decoration: underline;
+    box-shadow: aquamarine 2px 2px 20px;
+
+
 }
-.titulo{
+
+.titulo {
     text-align: center;
-    
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    box-shadow: 10px 5px 5px rgb(255, 0, 0);
+    border-style: solid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
-.subtitulo{
-text-decoration: underline;
+.subtitulo {
+    text-decoration: underline;
+    text-shadow: #e0dddd 5px 2px;
 }
 
-.editores{
+.editores {
     text-align: center;
 
 }
 
-ul li{
+ul li {
     list-style: none;
     text-align: center;
-    
+
 }
 
-.lista{
+.lista {
     text-align: center;
+
+
 }
 
-.sites{
+.lista2 {
+    color: white;
+
+}
+
+.sites {
     text-align: center;
+    box-shadow: aquamarine 2px 2px 20px;
+
+
+}
+
+p a {
+    text-decoration: none;
 }
 
 /* PAGINA HTML*/
-.titulohtml{
+.titulohtml {
     text-align: center;
     font-size: 50px;
     border-style: solid;
     box-shadow: 10px 5px 5px red;
 }
 
-img:hover{
+img:hover {
     transform: scale(1.5);
     transition: 1s;
 }
-.principal2{
-text-align: center;
-background-color: rgb(133, 124, 124);
-margin: 60px;
-font-size: 30px;
+
+.principal2 {
+    text-align: center;
+    background-color: rgb(133, 124, 124);
+    margin: 60px;
+    font-size: 30px;
+    box-shadow: aquamarine 2px 2px 20px;
+
 
 
 }
 
-.historia{
+.historia {
     text-align: center;
     background-color: rgb(100, 94, 94);
     font-size: 30px;
     margin: 60px;
+    box-shadow: aquamarine 2px 2px 20px;
+
 }
 
-.tituloweb{
+.tituloweb {
     font-size: 35px;
 }
 
 
-.funcionamento{
+.funcionamento {
     text-align: center;
     font-size: 30px;
     background-color: rgb(59, 55, 55);
+    box-shadow: aquamarine 2px 2px 20px;
+
 
 }
